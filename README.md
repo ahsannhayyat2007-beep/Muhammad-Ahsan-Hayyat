@@ -56,11 +56,11 @@
 | Course | Provider | Status |
 |--------|----------|--------|
 | 🤖 Google AI Essentials | Google | ✅ Completed |
-| 💬 The Art of Prompting | — | ✅ Completed |
+| 💬 Prompt Engineering | Google | ✅ Completed |
 | 🧠 Basic AI Automation | University of Michigan | ✅ Completed |
-| 🔤 Complete C Language | — | ✅ Completed |
-| ➕ Complete C++ | — | ✅ Completed |
-| 🐍 Complete Python | — | ✅ Completed |
+| 🔤 C Language | Google | ✅ Completed |
+| ➕ C++ | Microsoft | ✅ Completed |
+| 🐍 Python | IBM | ✅ Completed |
 
 <div align="center">
   <img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -92,15 +92,15 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-> **Note:** The snake animation above requires a one-time GitHub Actions setup in your own repo. See setup instructions below.
+> **Note:** The snake animation above. See setup instructions below.
 
 ---
 
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ahsannhayyat2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-ahsan-hayyat-a4b90727b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <div align="center">
