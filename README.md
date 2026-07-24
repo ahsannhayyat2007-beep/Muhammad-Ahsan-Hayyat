@@ -18,7 +18,7 @@
 
 🎓 I'm a **Mechatronics Engineering student at UET Taxila**, passionate about **Artificial Intelligence, Automation, and Programming**. I love building things, exploring how AI models work, and constantly upskilling through hands-on courses and projects.
 
----
+----
 
 ## 🛠️ Skills
 
